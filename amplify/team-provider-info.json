@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-pocnotesapp-dev-125506-authRole",
+      "UnauthRoleArn": "arn:aws:iam::249618878310:role/amplify-pocnotesapp-dev-125506-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::249618878310:role/amplify-pocnotesapp-dev-125506-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-pocnotesapp-dev-125506-deployment",
+      "UnauthRoleName": "amplify-pocnotesapp-dev-125506-unauthRole",
+      "StackName": "amplify-pocnotesapp-dev-125506",
+      "StackId": "arn:aws:cloudformation:us-east-2:249618878310:stack/amplify-pocnotesapp-dev-125506/b101c530-07f4-11eb-ac9d-0aa2a0de9f8e",
+      "AmplifyAppId": "d1dh5pyk7lwhnj"
+    }
+  }
+}
